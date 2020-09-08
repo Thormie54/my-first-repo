@@ -1,2 +1,2 @@
 Git er done
-Trying to learn hard things to remember
+3rd line of the thingy
