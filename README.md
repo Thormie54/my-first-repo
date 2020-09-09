@@ -1,30 +1,37 @@
-# This is a large heading
+# Norm Peterson
 
-## This is a smaller heading
+## Instruments
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+- My own demonic voice
+- Bass guitar
 
-- This is
-- an unordered
-- list
+## Favorite bands
 
-1. This is
-2. an ordered
-3. list
+1. Onslaught
+2. Exodus
+3. Amon Amarth
+4. Iron Maiden
+5. Ghoul
 
-Here is `some code` in the middle of a sentence.
+### Favorite beers
+
+- Fort Point KSA
+- Stone Enter Night
+- Trooper Sun and Steel
+
+### Contact
+
+If you don't have my info now, then maybe I don't want you to have it.  You can ask, but then it'd be really awkward if I tell you no.
+
+### LOGIC
 
 ```
-This is
-a block
-of code
+function {
+for music in $@
+do
+   if $music=thrash_metal
+   let $volume=11
+   else $change_the_song
+done
+}
 ```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
