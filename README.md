@@ -27,11 +27,17 @@ If you don't have my info now, then maybe I don't want you to have it.  You can 
 
 ```
 function {
-for music in $@
+volume=5
+music=[pop country hip_hop thrash_metal]
+for genre in music
 do
-   if $music=thrash_metal
+   if
+   $genre = thrash_metal
    let $volume=11
-   else $change_the_song
+   echo "Yeah, turn it up to $volume"
+   else
+   let $volume=2
+   echo "I hate $genre musice.  Change it" 
 done
 }
 ```
