@@ -1,11 +1,11 @@
 # Norm Peterson
 
-## Instruments
+### Instruments
 
 - My own demonic voice
 - Bass guitar
 
-## Favorite bands
+### Favorite bands
 
 1. Onslaught
 2. Exodus
@@ -17,7 +17,7 @@
 
 - Fort Point KSA
 - Stone Enter Night
-- Trooper Sun and Steel
+- Campfire Stout
 
 ### Contact
 
